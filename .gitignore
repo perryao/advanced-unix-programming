@@ -1,3 +1,2 @@
-# binary file directory
-bin/
-bin/*
+*.o
+*.a
