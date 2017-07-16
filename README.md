@@ -4,7 +4,7 @@ Examples and exercises from Advanced Programming in the Unix Environment
 ## Table of contents
 
 - [x] [Chapter 1.   UNIX System Overview](Chapter-1/)
-- [ ] [Chapter 2.  UNIX Standardization and Implementations](Chapter-2/)
+- [x] [Chapter 2.  UNIX Standardization and Implementations](Chapter-2/)
 - [ ] [Chapter 3.  File I/O](Chapter-3)
 - [ ] [Chapter 4.  Files and Directories](Chapter-4)
 - [ ] [Chapter 5.  Standard I/O Library](Chapter-5)
