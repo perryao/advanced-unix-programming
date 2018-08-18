@@ -62,7 +62,7 @@ void sleep_us(unsigned int);
 ssize_t readn(int, void *, size_t);
 ssize_t writen(int, const void *, size_t);
 int fd_pipe(int *);
-int recv_fd(int, ssize_t, (*func)(int, const void *, size_t));
+int recv_fd(int, ssize_t (*func)(int, const void *, size_t));
 
 int send_fd(int, int);
 int send_err(int, int, const char*);
