@@ -54,5 +54,3 @@ path_alloc(size_t *sizep) // also return allocated size, if nonnull
         *sizep = size;
     return ptr;
 }
-
-int main() {}
