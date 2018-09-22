@@ -1,1 +1,1 @@
-add_library(apue SHARED error.c errorlog.c)
+add_library(apue SHARED error.c errorlog.c pathalloc.c)
