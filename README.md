@@ -1,6 +1,12 @@
 # advanced-unix-programming
 Examples and exercises from Advanced Programming in the Unix Environment
 
+# Building
+This project uses CMake. To build programs:
+
+1. `cmake .`
+2. `make`
+
 ## Table of contents
 
 - [x] [Chapter 1.   UNIX System Overview](Chapter-1/)

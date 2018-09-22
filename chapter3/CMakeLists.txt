@@ -1,0 +1,5 @@
+set(execs example3-1 example3-2 example3-5 example3-11)
+FOREACH(element ${execs})
+  add_executable(${element} ${element}.c)
+  target_link_libraries(${element} apue)
+ENDFOREACH(element)
