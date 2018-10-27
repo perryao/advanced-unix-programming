@@ -4,6 +4,7 @@ set(execs
   example5-11
   example5-12
   example5-13
+  example5-15
 )
 FOREACH(element ${execs})
   add_executable(${element} ${element}.c)
